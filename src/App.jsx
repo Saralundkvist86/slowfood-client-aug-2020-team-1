@@ -7,6 +7,7 @@ const App = () => {
     <>
       <NavBar />
       <ProductsList />
+      <button id="login">Login</button>
     </>
   );
 };
